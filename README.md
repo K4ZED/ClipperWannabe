@@ -27,8 +27,8 @@ brew install ffmpeg yt-dlp
 ## Instalasi
 
 ```bash
-git clone <url-repo-ini>
-cd Kilp_Podcast
+git clone https://github.com/K4ZED/ClipperWannabe.git
+cd ClipperWannabe
 npm install
 cp .env.example .env
 ```

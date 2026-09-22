@@ -1,0 +1,202 @@
+{
+  "clips": [
+    {
+      "id": "clip1",
+      "source": "input/Kenapa_Orang_yang_Kelihatan_Bugar_Bisa_Kena_Serangan_Jantung_Mendadak.mp4",
+      "start": 655.6879,
+      "end": 697.94794,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip1.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip1.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip1.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Nyapu dan Ngepel Bukan Olahraga!",
+      "score": 10,
+      "reason": "Sangat kontroversial dan memicu bantahan! Menyatakan aktivitas rumah tangga biasa seperti menyapu bukanlah olahraga karena tidak mencapai zona 2.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip2",
+      "source": "input/Kenapa_Orang_yang_Kelihatan_Bugar_Bisa_Kena_Serangan_Jantung_Mendadak.mp4",
+      "start": 165.49998,
+      "end": 207.95999,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip2.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip2.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip2.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Bahaya Laten Gangguan Irama Jantung",
+      "score": 9,
+      "reason": "Pernyataan kontroversial bahwa sebagian besar penderita kelainan jantung tidak merasakan gejala hingga kondisinya sudah parah.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip3",
+      "source": "input/Kenapa_Orang_yang_Kelihatan_Bugar_Bisa_Kena_Serangan_Jantung_Mendadak.mp4",
+      "start": 313.99396,
+      "end": 356.85397,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip3.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip3.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip3.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Detik-detik Mengetahui Jantung Skip Beat",
+      "score": 9,
+      "reason": "Momen dramatis saat dokter memeriksa langsung detak jantung temannya yang melompat (skip beat) di tengah aktivitas fisik.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip4",
+      "source": "input/Kenapa_Orang_yang_Kelihatan_Bugar_Bisa_Kena_Serangan_Jantung_Mendadak.mp4",
+      "start": 369.31396,
+      "end": 408.07397,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip4.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip4.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip4.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Bandelnya Orang dengan Kelainan Jantung",
+      "score": 9,
+      "reason": "Menyoroti perilaku keras kepala pasien jantung yang merasa aman karena tidak ada gejala, sangat memicu debat di kolom komentar.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip5",
+      "source": "input/Kenapa_Orang_yang_Kelihatan_Bugar_Bisa_Kena_Serangan_Jantung_Mendadak.mp4",
+      "start": 557.5079000000001,
+      "end": 589.78796,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip5.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip5.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip5.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Jantung Manusia Mirip Mesin Mobil",
+      "score": 9,
+      "reason": "Analogi yang sangat kuat membandingkan jantung dengan mesin mobil yang dipaksa bekerja di RPM tinggi.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip6",
+      "source": "input/Kenapa_Orang_yang_Kelihatan_Bugar_Bisa_Kena_Serangan_Jantung_Mendadak.mp4",
+      "start": 880.8819,
+      "end": 921.7419,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip6.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip6.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip6.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Bahaya Sleep Apnea yang Sering Diabaikan",
+      "score": 9,
+      "reason": "Membahas kondisi mendengkur dan henti nafas saat tidur (sleep apnea) yang membuat orang selalu merasa lelah saat bangun tidur.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip7",
+      "source": "input/Kenapa_Orang_yang_Kelihatan_Bugar_Bisa_Kena_Serangan_Jantung_Mendadak.mp4",
+      "start": 946.0019,
+      "end": 984.3219,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip7.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip7.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip7.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Privilege Uang dalam Memilih Smartwatch",
+      "score": 9,
+      "reason": "Pernyataan blak-blakan mengenai perbedaan harga smartwatch dan konsep 'privilege uang' dalam menjaga kesehatan.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip8",
+      "source": "input/Kenapa_Orang_yang_Kelihatan_Bugar_Bisa_Kena_Serangan_Jantung_Mendadak.mp4",
+      "start": 116.8,
+      "end": 153.73999,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip8.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip8.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip8.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Mendeteksi Gangguan Jantung Tanpa Gejala",
+      "score": 8,
+      "reason": "Membahas pentingnya smartwatch untuk mendeteksi gangguan irama jantung yang sering kali tidak bergejala pada tahap awal.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip9",
+      "source": "input/Kenapa_Orang_yang_Kelihatan_Bugar_Bisa_Kena_Serangan_Jantung_Mendadak.mp4",
+      "start": 247.45999,
+      "end": 304.83398,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip9.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip9.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790053376359/clip9.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Kisah Nyata Terdeteksi Sakit Jantung Saat Bersepeda",
+      "score": 8,
+      "reason": "Cerita personal yang emosional dan menegangkan tentang detak jantung teman pembicara yang melonjak drastis secara tiba-tiba.",
+      "genre": "opini"
+    }
+  ]
+}

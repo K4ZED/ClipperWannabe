@@ -1,0 +1,70 @@
+{
+  "clips": [
+    {
+      "id": "clip1",
+      "source": "input/Kajian_Kitab_Rongawi_Bersama_Reza_Auditore.mp4",
+      "start": 2204.016,
+      "end": 2267.490612,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790049269822/clip1.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790049269822/clip1.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790049269822/clip1.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Batal Kuliah ke Jepang Demi Menjaga Kakak",
+      "score": 10,
+      "reason": "Momen paling menyentuh di mana Reza mengorbankan impian pendidikannya demi mengurus kakaknya yang memiliki keterbatasan.",
+      "genre": "wawancara"
+    },
+    {
+      "id": "clip2",
+      "source": "input/Kajian_Kitab_Rongawi_Bersama_Reza_Auditore.mp4",
+      "start": 3892.9771659999997,
+      "end": 3929.842086,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790049269822/clip2.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790049269822/clip2.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790049269822/clip2.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Arti Pesan Terakhir Ayah: Jangan Lupa Jadi Orang",
+      "score": 10,
+      "reason": "Pesan filosofis mendalam dari sang ayah tentang arti hidup yang sesungguhnya, menjadi penutup klip yang sangat kuat.",
+      "genre": "wawancara"
+    },
+    {
+      "id": "clip3",
+      "source": "input/Kajian_Kitab_Rongawi_Bersama_Reza_Auditore.mp4",
+      "start": 611.48,
+      "end": 688.727823,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790049269822/clip3.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790049269822/clip3.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790049269822/clip3.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Kebenaran di Balik Karangan Bunga Pejabat",
+      "score": 9,
+      "reason": "Pembicaraan emosional dan kontras dari persona komedi Reza, menceritakan realitas pahit politik keluarga pejabat setelah ditinggal orang tua.",
+      "genre": "wawancara"
+    }
+  ]
+}

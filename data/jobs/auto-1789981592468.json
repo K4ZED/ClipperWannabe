@@ -1,0 +1,48 @@
+{
+  "clips": [
+    {
+      "id": "clip1",
+      "source": "input/Memahami_Bagaimana_Perempuan_Jatuh_Cinta_dalam_Neurosains.mp4",
+      "start": 0,
+      "end": 51.394467,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981592468/clip1.srt",
+      "words": null,
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981592468/clip1.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Helvetica Neue Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Nge-gym untuk Maskulinitas Itu Bodoh?",
+      "score": 10,
+      "reason": "Sangat kontroversial, memicu perdebatan keras di kolom komentar mengenai esensi nge-gym dan maskulinitas, serta memenuhi semua syarat kalimat pembuka.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip2",
+      "source": "input/Memahami_Bagaimana_Perempuan_Jatuh_Cinta_dalam_Neurosains.mp4",
+      "start": 290.75288,
+      "end": 337.648481,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981592468/clip2.srt",
+      "words": null,
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981592468/clip2.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Helvetica Neue Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Apa yang Sebenarnya Dicari Perempuan?",
+      "score": 9,
+      "reason": "Menyasar persepsi maskulinitas otot vs rasa aman secara biologis, sangat mengundang debat dari komunitas gym/alpha male.",
+      "genre": "opini"
+    }
+  ]
+}

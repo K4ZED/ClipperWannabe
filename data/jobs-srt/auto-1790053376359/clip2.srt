@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:02,440
+Kalau dia itu gak dipasangi alat
+
+2
+00:00:02,440 --> 00:00:03,260
+Namanya holder
+
+3
+00:00:03,260 --> 00:00:06,020
+Jadi dipasang disini selama 24 jam
+
+4
+00:00:06,020 --> 00:00:07,980
+Nah otomatis
+
+5
+00:00:07,980 --> 00:00:12,960
+Sulit nih kalau kita mendeteksi gangguan irama jantung kalau gak bergejala
+
+6
+00:00:12,960 --> 00:00:18,220
+Nah mayoritas orang dengan kelainan gangguan irama jantung itu awal-awalnya gak gejala
+
+7
+00:00:18,220 --> 00:00:22,220
+Ketika sudah mengeluarkan gejala itu artinya sudah tahap middle atau tahap akhir
+
+8
+00:00:22,220 --> 00:00:27,480
+Dari gejala sesak nafas, terus nyeri dada yang hebat lalu menjelar sampai punggung
+
+9
+00:00:27,480 --> 00:00:32,780
+Sampai ada henti jantung dan yang terakhir adalah mengalami gangguan kesadaran sampai ada kematian
+
+10
+00:00:32,780 --> 00:00:35,160
+Nah disitulah salah satu pentingnya smartwatch
+
+11
+00:00:35,160 --> 00:00:41,960
+Smartwatch itu mungkin tidak sedetail dari holder, itu alat mungkin malah bisa capture ya ini holder alatnya tempel di sini.

@@ -1,0 +1,202 @@
+{
+  "clips": [
+    {
+      "id": "clip1",
+      "source": "input/suaratirta_KAMU_TANYA_SAYA_JAWAB_-_MITOS_FAKTA_KESEHATAN.mp4",
+      "start": 516.82367,
+      "end": 567.744444,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip1.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip1.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip1.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Alasan Orang Mager Sering Kena Sembelit",
+      "score": 9,
+      "reason": "Membahas topik kesehatan pencernaan yang sangat relevan secara luas dengan penjelasan yang ilmiah namun mudah dicerna tentang hubungan mager dan sembelit.",
+      "genre": "wawancara"
+    },
+    {
+      "id": "clip2",
+      "source": "input/suaratirta_KAMU_TANYA_SAYA_JAWAB_-_MITOS_FAKTA_KESEHATAN.mp4",
+      "start": 586.5056010000001,
+      "end": 633.001701,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip2.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip2.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip2.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Mengapa Bentuk Kotoran Sangat Penting untuk Dicek",
+      "score": 9,
+      "reason": "Topik unik dan menarik perhatian tinggi, diawali dengan bahasan krusialnya karakteristik kotoran untuk mendeteksi penyakit serius.",
+      "genre": "wawancara"
+    },
+    {
+      "id": "clip3",
+      "source": "input/suaratirta_KAMU_TANYA_SAYA_JAWAB_-_MITOS_FAKTA_KESEHATAN.mp4",
+      "start": 788.5871880000001,
+      "end": 852.171451,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip3.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip3.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip3.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Bahaya Minuman Manis Bagi Orang Mager",
+      "score": 9,
+      "reason": "Menyoroti efek adiktif gula pada minuman manis yang dikombinasikan dengan gaya hidup mager yang bisa memicu resistensi insulin.",
+      "genre": "wawancara"
+    },
+    {
+      "id": "clip4",
+      "source": "input/suaratirta_KAMU_TANYA_SAYA_JAWAB_-_MITOS_FAKTA_KESEHATAN.mp4",
+      "start": 1118.6874,
+      "end": 1165.41966,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip4.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip4.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip4.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Dampak Buruk Olahraga Tengah Malam",
+      "score": 9,
+      "reason": "Memberikan edukasi penting bagi kaum urban yang sering gym malam hari, menjelaskan fungsi recovery tubuh dan hormon pertumbuhan.",
+      "genre": "wawancara"
+    },
+    {
+      "id": "clip5",
+      "source": "input/suaratirta_KAMU_TANYA_SAYA_JAWAB_-_MITOS_FAKTA_KESEHATAN.mp4",
+      "start": 1371.631,
+      "end": 1428.738912,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip5.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip5.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip5.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Alasan Susah Tidur Setelah Olahraga Berat",
+      "score": 9,
+      "reason": "Membongkar mitos bahwa olahraga selalu bikin cepat tidur, menjelaskan konsep 'over fatigue' dan hormon stres secara akurat.",
+      "genre": "wawancara"
+    },
+    {
+      "id": "clip6",
+      "source": "input/suaratirta_KAMU_TANYA_SAYA_JAWAB_-_MITOS_FAKTA_KESEHATAN.mp4",
+      "start": 75.04,
+      "end": 135.024036,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip6.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip6.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip6.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Bahaya Olahraga Outdoor Saat Polusi Udara Tinggi",
+      "score": 9,
+      "reason": "Sangat relevan dengan kondisi perkotaan saat ini, menjelaskan dampak langsung polusi terhadap peningkatan detak jantung dan radang tenggorokan saat olahraga.",
+      "genre": "wawancara"
+    },
+    {
+      "id": "clip7",
+      "source": "input/suaratirta_KAMU_TANYA_SAYA_JAWAB_-_MITOS_FAKTA_KESEHATAN.mp4",
+      "start": 363.55034,
+      "end": 417.3,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip7.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip7.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip7.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Langkah Preventif Agar Tidak Gampang Sakit Akibat Polusi",
+      "score": 9,
+      "reason": "Memberikan solusi konkret dan langkah pencegahan harian (masker, purifier, vitamin, tidur cukup) untuk menghadapi kondisi udara buruk.",
+      "genre": "wawancara"
+    },
+    {
+      "id": "clip8",
+      "source": "input/suaratirta_KAMU_TANYA_SAYA_JAWAB_-_MITOS_FAKTA_KESEHATAN.mp4",
+      "start": 715.758458,
+      "end": 771.782857,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip8.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip8.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip8.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Alasan Sering Kencing Saat Suhu Dingin",
+      "score": 8,
+      "reason": "Menjelaskan mekanisme tubuh mengeluarkan cairan berdasarkan suhu ruangan dan konsumsi minuman dengan penyampaian yang mengedukasi.",
+      "genre": "wawancara"
+    },
+    {
+      "id": "clip9",
+      "source": "input/suaratirta_KAMU_TANYA_SAYA_JAWAB_-_MITOS_FAKTA_KESEHATAN.mp4",
+      "start": 895.1874,
+      "end": 929.773583,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip9.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip9.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1790052395651/clip9.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Futura Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Efek Samping Minuman Manis ke Organ Hati",
+      "score": 8,
+      "reason": "Penjelasan detail mengenai bagaimana tumpukan gula dari minuman manis berubah menjadi lemak visceral dan menyebabkan fatty liver.",
+      "genre": "wawancara"
+    }
+  ]
+}

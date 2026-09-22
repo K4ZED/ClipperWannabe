@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:02,780
+Memakai smartwatch untuk harian
+
+2
+00:00:02,780 --> 00:00:04,700
+Sebenarnya fitur pertama yang paling penting
+
+3
+00:00:04,700 --> 00:00:06,580
+Di garis bawah itu adalah fitur heart rate nya
+
+4
+00:00:06,580 --> 00:00:08,640
+Kita harus tahu bahwa
+
+5
+00:00:08,640 --> 00:00:10,900
+Detak jantung manusia itu kan berbeda dan genetik
+
+6
+00:00:10,900 --> 00:00:13,080
+Makanya averagenya disebut normal
+
+7
+00:00:13,080 --> 00:00:15,320
+Kalau average BPM itu 60 BPM
+
+8
+00:00:15,320 --> 00:00:16,400
+60 detak per menit
+
+9
+00:00:16,400 --> 00:00:18,540
+Atau kita ngukurnya sebenarnya kalau normal
+
+10
+00:00:18,540 --> 00:00:20,800
+Kita motongnya itu di dunyut nadi disini
+
+11
+00:00:20,800 --> 00:00:22,340
+Di jantung disini
+
+12
+00:00:22,340 --> 00:00:23,460
+Di atas ini
+
+13
+00:00:23,460 --> 00:00:25,320
+Itu di sekitar 15
+
+14
+00:00:25,320 --> 00:00:27,080
+Kali per 15 detik terus kali 4
+
+15
+00:00:27,080 --> 00:00:27,820
+Kalau normal
+
+16
+00:00:27,820 --> 00:00:30,660
+Nah masalahnya ada sebuah gangguan yang dinamakan
+
+17
+00:00:30,660 --> 00:00:31,840
+Gangguan irama jantung
+
+18
+00:00:31,840 --> 00:00:33,1000
+Itu sebenarnya ada spesialisasinya
+
+19
+00:00:33,1000 --> 00:00:36,440
+Namanya dokter spesialis jantung
+
+20
+00:00:36,440 --> 00:00:36,940
+Pembulu sub irama jantung

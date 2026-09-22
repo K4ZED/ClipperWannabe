@@ -1,0 +1,87 @@
+1
+00:00:00,000 --> 00:00:01,200
+Sleep tracker nya kasih lengan
+
+2
+00:00:01,200 --> 00:00:03,880
+Nge-track tidur itu akan men-tau
+
+3
+00:00:03,880 --> 00:00:06,780
+Kamu pernah gak sih ketika bangun tidur itu gak seger?
+
+4
+00:00:08,000 --> 00:00:08,600
+Kan gak mungkin
+
+5
+00:00:08,600 --> 00:00:10,140
+Kamu gak mungkin pasang CCTV dong
+
+6
+00:00:10,140 --> 00:00:11,140
+Kalau kamu punya istri
+
+7
+00:00:11,140 --> 00:00:12,540
+Karena rekam dong
+
+8
+00:00:12,540 --> 00:00:14,320
+Kalau pasang CCTV
+
+9
+00:00:14,320 --> 00:00:16,480
+CCTV ketika di kamar itu bagus banget
+
+10
+00:00:16,480 --> 00:00:18,620
+Karena akan mengetahui kapan kamu sleep apni
+
+11
+00:00:18,620 --> 00:00:20,200
+Jadi dugaannya adalah
+
+12
+00:00:20,200 --> 00:00:21,940
+Orang-orang yang bangun tidur yang gak fit
+
+13
+00:00:21,940 --> 00:00:24,260
+Itu bisa jadi dia mengalami ngorok dan sleep apni
+
+14
+00:00:24,260 --> 00:00:26,780
+Jadi dia henti nafas dadakan ketika tidur
+
+15
+00:00:26,780 --> 00:00:29,400
+Cirikasnya ketika bangun tidur itu gak pernah fresh
+
+16
+00:00:29,400 --> 00:00:30,360
+Ngantuk terus
+
+17
+00:00:30,360 --> 00:00:32,320
+Karena suplai oksigen kotaknya berkurang
+
+18
+00:00:32,320 --> 00:00:34,920
+Nah dengan adanya smartwatch itu bisa ngetrack
+
+19
+00:00:34,920 --> 00:00:36,940
+Kamu terjadi sleep apni apa gak
+
+20
+00:00:36,940 --> 00:00:38,620
+Detak jauh temu ada yang aneh gak
+
+21
+00:00:38,620 --> 00:00:40,360
+Heart rate variability mu berapa
+
+22
+00:00:40,360 --> 00:00:40,860
+Res HR-mu berapa, deep sleep-mu berapa kali

@@ -1,0 +1,48 @@
+{
+  "clips": [
+    {
+      "id": "clip1",
+      "source": "input/Memahami_Bagaimana_Perempuan_Jatuh_Cinta_dalam_Neurosains.mp4",
+      "start": 397.23544,
+      "end": 440.47543,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981934610/clip1.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981934610/clip1.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981934610/clip1.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Helvetica Neue Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Sindiran Keras untuk Kalimat Loser Pria",
+      "score": 10,
+      "reason": "Menyerang mentalitas korban ('loser') pada pria yang menyalahkan wanita. Sangat kontroversial dan mengundang argumen panas di kolom komentar.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip2",
+      "source": "input/Memahami_Bagaimana_Perempuan_Jatuh_Cinta_dalam_Neurosains.mp4",
+      "start": 491.98315,
+      "end": 525.9432,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981934610/clip2.srt",
+      "words": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981934610/clip2.words.json",
+      "shots": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981934610/clip2.shots.json",
+      "reframe": "dinamis",
+      "style": {
+        "fontFamily": "Helvetica Neue Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "boxed",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Ketika Kekayaan Keluar dari Mulut Lo, Fail!",
+      "score": 10,
+      "reason": "Pernyataan yang sangat menusuk ego pria yang suka pamer (show-off) kekayaan atau kepintaran secara langsung di depan wanita.",
+      "genre": "opini"
+    }
+  ]
+}

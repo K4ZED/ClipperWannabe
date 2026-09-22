@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Podclip</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="page">
+
+  <header class="page-head">
+    <div>
+      <h1>Podclip</h1>
+      <p class="subtitle">Podcast panjang → clip vertikal siap upload</p>
+    </div>
+    <div class="provider-pill" id="provider-status">Cek provider...</div>
+  </header>
+
+  <div class="dashboard">
+    <div class="col-setup">
+      <section class="card">
+        <p class="eyebrow">Langkah 1</p>
+        <h2>Siapkan video</h2>
+        <p class="hint">Download dari YouTube, atau taruh file di folder <code>input/</code>.</p>
+
+        <label class="field-label">Link YouTube</label>
+        <textarea id="youtube-urls" rows="2" placeholder="https://www.youtube.com/watch?v=..."></textarea>
+        <button id="btn-download" class="btn-primary">Download</button>
+        <div id="download-log" class="log" hidden></div>
+      </section>
+
+      <section class="card">
+        <p class="eyebrow">Langkah 2</p>
+        <h2>Pilih video &amp; analisis</h2>
+        <p class="hint">Centang video, atur pengaturan, lalu render.</p>
+
+        <div class="subsection-head">
+          <label class="field-label" style="margin:0">Video</label>
+          <div style="display:flex;gap:8px">
+            <button id="btn-select-all" class="btn-ghost">Pilih semua</button>
+            <button id="btn-refresh-files" class="btn-ghost">Refresh</button>
+          </div>
+        </div>
+        <table id="input-files-table">
+          <thead><tr><th></th><th>File</th><th>Durasi</th><th>Resolusi</th></tr></thead>
+          <tbody></tbody>
+        </table>
+        <p class="empty-hint" id="input-files-empty">Belum ada file. Download dulu, atau taruh di folder <code>input/</code>.</p>
+
+        <div class="field-row">
+          <div>
+            <label class="field-label">Genre episode</label>
+            <select id="analyze-genre">
+              <option value="auto">Otomatis (per episode)</option>
+              <option value="wawancara">Wawancara</option>
+              <option value="komedi">Komedi</option>
+              <option value="cerita">Cerita</option>
+              <option value="opini">Opini</option>
+            </select>
+          </div>
+          <div>
+            <label class="field-label">Jumlah clip</label>
+            <input type="number" id="analyze-count" value="6" min="1" max="15">
+          </div>
+        </div>
+
+        <details class="settings-panel">
+          <summary>Pengaturan tampilan (opsional)</summary>
+
+          <label class="field-label">Mode reframe</label>
+          <div class="choice-grid" data-choice="reframe" data-selected="blur">
+            <button type="button" class="choice-btn active" data-value="blur">
+              <span class="preview preview-reframe-blur"><span class="fg"></span></span>
+              <span>Blur belakang</span>
+            </button>
+            <button type="button" class="choice-btn" data-value="crop">
+              <span class="preview preview-reframe-crop"></span>
+              <span>Potong tengah</span>
+            </button>
+            <button type="button" class="choice-btn" data-value="split">
+              <span class="preview preview-reframe-split"><span class="half half-a"></span><span class="half half-b"></span></span>
+              <span>Split atas-bawah</span>
+            </button>
+            <button type="button" class="choice-btn" data-value="dinamis">
+              <span class="preview preview-reframe-dinamis">
+                <span class="half half-a"></span><span class="fg-small"></span>
+              </span>
+              <span>Dinamis</span>
+            </button>
+          </div>
+          <p class="hint" style="margin-top:6px">Dinamis: ganti mode sendiri antara wide dan fokus 1 orang sesuai momen.</p>
+
+          <div class="field-row" style="margin-top:16px">
+            <div>
+              <label class="field-label">Gaya caption</label>
+              <div class="choice-grid" data-choice="caption-style" data-selected="classic">
+                <button type="button" class="choice-btn active" data-value="classic">
+                  <span class="preview preview-caption-classic">
+                    <span class="line"></span><span class="line"></span><span class="line short"></span>
+                  </span>
+                  <span>Klasik</span>
+                </button>
+                <button type="button" class="choice-btn" data-value="boxed">
+                  <span class="preview preview-caption-boxed"><span class="box">kata</span></span>
+                  <span>Boxed</span>
+                </button>
+              </div>
+            </div>
+            <div>
+              <label class="field-label">Posisi caption</label>
+              <div class="choice-grid" data-choice="caption-position" data-selected="bawah">
+                <button type="button" class="choice-btn" data-value="atas">
+                  <span class="preview preview-pos-atas"><span class="bar"></span></span>
+                  <span>Atas</span>
+                </button>
+                <button type="button" class="choice-btn" data-value="tengah">
+                  <span class="preview preview-pos-tengah"><span class="bar"></span></span>
+                  <span>Tengah</span>
+                </button>
+                <button type="button" class="choice-btn active" data-value="bawah">
+                  <span class="preview preview-pos-bawah"><span class="bar"></span></span>
+                  <span>Bawah</span>
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <div class="field-row" style="margin-top:16px">
+            <div>
+              <label class="field-label">Font subtitle</label>
+              <select id="opt-font">
+                <option value="Arial Bold" style="font-family:Arial, sans-serif; font-weight:bold">Arial Bold</option>
+                <option value="Helvetica Neue Bold" style="font-family:'Helvetica Neue', sans-serif; font-weight:bold">Helvetica Neue Bold</option>
+                <option value="Futura Bold" style="font-family:Futura, sans-serif; font-weight:bold">Futura Bold</option>
+                <option value="Impact" style="font-family:Impact, sans-serif">Impact</option>
+                <option value="Courier New Bold" style="font-family:'Courier New', monospace; font-weight:bold">Courier New Bold</option>
+              </select>
+            </div>
+            <div id="opt-highlight-wrap">
+              <label class="field-label">Warna highlight (Boxed)</label>
+              <input type="color" id="opt-highlight-color" value="#FDE047">
+            </div>
+          </div>
+
+          <div class="field-row" style="margin-top:16px">
+            <div>
+              <label class="field-label">Watermark</label>
+              <select id="opt-watermark-file">
+                <option value="">Tanpa watermark</option>
+              </select>
+            </div>
+            <div>
+              <label class="field-label">Posisi watermark</label>
+              <div class="choice-grid" data-choice="watermark-position" data-selected="kanan-atas">
+                <button type="button" class="choice-btn" data-value="kiri-atas">
+                  <span class="preview preview-wm-kiri-atas"><span class="dot"></span></span>
+                </button>
+                <button type="button" class="choice-btn active" data-value="kanan-atas">
+                  <span class="preview preview-wm-kanan-atas"><span class="dot"></span></span>
+                </button>
+                <button type="button" class="choice-btn" data-value="kiri-bawah">
+                  <span class="preview preview-wm-kiri-bawah"><span class="dot"></span></span>
+                </button>
+                <button type="button" class="choice-btn" data-value="kanan-bawah">
+                  <span class="preview preview-wm-kanan-bawah"><span class="dot"></span></span>
+                </button>
+              </div>
+            </div>
+          </div>
+          <p class="hint">Taruh logo di folder <code>watermarks/</code>.</p>
+        </details>
+
+        <button id="btn-analyze" class="btn-primary btn-large">Analisis &amp; Render</button>
+        <div id="analyze-status" class="status-panel" hidden></div>
+      </section>
+
+      <details class="card advanced">
+        <summary>Lanjutan: render manual dari file JSON</summary>
+        <p class="hint">Buat file JSON di <code>data/jobs/&lt;nama-job&gt;.json</code>:</p>
+        <pre class="example">{
+  "clips": [
+    {
+      "id": "clip1",
+      "source": "input/episode.mp4",
+      "start": "00:01:23.500",
+      "end": "00:02:10.000",
+      "srt": "input/clip1.srt",
+      "reframe": "blur"
+    }
+  ]
+}</pre>
+        <p class="hint"><code>reframe</code>: <code>blur</code> (default) / <code>crop</code>.</p>
+        <button id="btn-refresh-jobs" class="btn-ghost">Refresh daftar job</button>
+        <ul id="jobs-list"></ul>
+      </details>
+    </div>
+
+    <div class="col-results">
+      <section class="card card-results">
+        <p class="eyebrow">Langkah 3</p>
+        <h2>Hasil</h2>
+        <div id="results" class="results-grid"></div>
+        <p class="empty-hint" id="results-empty">Belum ada clip.</p>
+      </section>
+    </div>
+  </div>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>

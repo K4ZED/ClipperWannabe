@@ -1,0 +1,13 @@
+{
+  "name": "podclip",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Tool lokal untuk memotong episode podcast panjang menjadi clip vertikal siap upload",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+.env
+input/
+output/
+watermarks/
+data/transcripts/
+data/jobs/*.status.json
+*.part
+*.ytdl
+.claude/

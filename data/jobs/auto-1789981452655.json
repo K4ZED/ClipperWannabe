@@ -1,0 +1,48 @@
+{
+  "clips": [
+    {
+      "id": "clip1",
+      "source": "input/Memahami_Bagaimana_Perempuan_Jatuh_Cinta_dalam_Neurosains.mp4",
+      "start": 0,
+      "end": 51.394467,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981452655/clip1.srt",
+      "words": null,
+      "shots": null,
+      "reframe": "blur",
+      "style": {
+        "fontFamily": "Arial Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "classic",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Nge-gym untuk Maskulinitas Adalah Hal Bodoh",
+      "score": 10,
+      "reason": "Sangat kontroversial, memancing perdebatan sengit tentang efektivitas nge-gym vs daya tarik di mata wanita, dan memenuhi semua kriteria pembuka yang bersih.",
+      "genre": "opini"
+    },
+    {
+      "id": "clip2",
+      "source": "input/Memahami_Bagaimana_Perempuan_Jatuh_Cinta_dalam_Neurosains.mp4",
+      "start": 179.60771,
+      "end": 233.30771,
+      "srt": "/Volumes/Macintosh HD - Data/Code/Kilp_Podcast/data/jobs-srt/auto-1789981452655/clip2.srt",
+      "words": null,
+      "shots": null,
+      "reframe": "blur",
+      "style": {
+        "fontFamily": "Arial Bold",
+        "fontSize": 64,
+        "captionPosition": "bawah",
+        "captionStyle": "classic",
+        "highlightColor": "#fde047"
+      },
+      "watermark": null,
+      "title": "Laki-laki Sering Misleading Memahami Perempuan",
+      "score": 9,
+      "reason": "Mengangkat bias gender dalam hubungan romantis dengan nada bicara yang berani dan berdasarkan klaim riset/observasi.",
+      "genre": "opini"
+    }
+  ]
+}

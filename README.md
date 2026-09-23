@@ -65,6 +65,10 @@ output/             Hasil clip per job
 data/               Cache transkrip, status job, file .srt/.ass sementara
 ```
 
+## Atribusi
+
+Kalau kamu clone atau pakai ulang kode dari repo ini, tolong cantumkan sumbernya (link ke repo ini).
+
 ## Catatan
 
 Ini alat internal buat kebutuhan sendiri, bukan produk yang dipublikasikan. Dijalankan lokal, tanpa autentikasi.
